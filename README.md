@@ -30,3 +30,6 @@ visualisation of images a breeze.
 ```console
 (normals)$ conda install -c menpo menpo
 ```
+
+Disclaimer:
+The pretrained models can only be used for non-commercial academic purposes.
